@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/PERSONAL/UTEC/POO/Vector/CVector.h
+iostream
+-
+
+D:/PERSONAL/UTEC/POO/Vector/TVector.cpp
+TVector.h
+D:/PERSONAL/UTEC/POO/Vector/TVector.h
+
+D:/PERSONAL/UTEC/POO/Vector/TVector.h
+iostream
+-
+TVector.cpp
+D:/PERSONAL/UTEC/POO/Vector/TVector.cpp
+
+D:/PERSONAL/UTEC/POO/Vector/main.cpp
+TVector.h
+D:/PERSONAL/UTEC/POO/Vector/TVector.h
+CVector.h
+D:/PERSONAL/UTEC/POO/Vector/CVector.h
+

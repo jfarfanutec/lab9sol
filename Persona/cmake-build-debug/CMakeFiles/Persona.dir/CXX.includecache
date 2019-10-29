@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/personal/Persona/CAlumno.cpp
+CAlumno.h
+E:/personal/Persona/CAlumno.h
+
+E:/personal/Persona/CAlumno.h
+Tipos.h
+E:/personal/Persona/Tipos.h
+CCurso.h
+E:/personal/Persona/CCurso.h
+
+E:/personal/Persona/CCurso.h
+Tipos.h
+E:/personal/Persona/Tipos.h
+
+E:/personal/Persona/Tipos.h
+iostream
+-
+
